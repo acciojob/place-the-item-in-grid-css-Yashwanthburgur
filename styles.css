@@ -2,7 +2,4 @@
     display: grid;
     grid-template-columns: repeat(2, 100px);  /* 2 columns, each 200px */
     grid-template-rows: repeat(2, 100px);     /* 2 rows, each 200px */
-    gap: 10px;
-    background: lightgray;
-    padding: 10px;
 }
